@@ -1,0 +1,117 @@
+*{
+    text-decoration: none;
+    color: #000;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2vw;
+}
+#search-product{
+    display: flex;
+    width: 60%;
+    border-radius: 6px;
+
+}
+.elements{
+    display: flex;
+    align-items: center;
+
+   
+}
+
+.table-header{
+    background-color: #FFF8B7;
+    
+    
+}
+
+
+.table-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+
+#add-btn{
+    background-color: #662671;
+    
+}
+
+.add-head{
+    display: flex;
+    align-items: center;
+   
+}
+#table{
+text-align: center;
+}
+
+.add-head span{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 2vw;
+    font-weight: 600;
+    font-size: 1.5vw;
+   
+}
+.product-fields{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 8vw;
+
+}
+#bg{
+    background: #F2F2F2;
+   
+    
+ 
+
+}
+
+
+.upload-input{
+   
+        width: 350px;
+        height: 55px;
+        max-width: 100%;
+        color: #444;
+        padding: 10px;
+        background: #fff;
+        border-radius: 5px;
+        border: 1px solid #555;
+        margin-left: 30px;
+
+}
+
+.action-btn{
+display: flex;
+align-items: center;
+justify-content: end;
+gap: 20px;
+padding-right: 25px;
+
+
+
+}
+
+.action-btn a{
+    font-size: 20px;
+    margin-top: 3px;
+    margin-left: 5px;
+   
+}
+.thead{
+    background-color: #662671;
+    margin: 20px;
+}
+td img{
+    width: 55px;
+}
+
+
+

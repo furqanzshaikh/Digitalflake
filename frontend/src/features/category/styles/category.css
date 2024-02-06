@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.add-c-head{
+    display: flex;
+    align-items: center;
+    margin: 2vw 1vw;
+    font-weight: 600;
+    gap: 1vw;
+    
+}
+.fields{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40vh;
+
+}
+.end-btns{
+display: flex;
+align-items: center;
+justify-content: flex-end;
+padding: 3vw;
+gap: 2vw;
+}
+
+#add-btn{
+    color: #000;
+    background-color: #662671;
+    color: #ffff;
+    border-radius: 10px;
+    padding: .5vw 1.5vw;
+    
+}
+.add-c-head{
+    display: flex;
+    align-items: center;
+}
+.add-c-head span{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.5vw;
+}
+
+#btn-save{
+border: 1px solid;
+padding: .5vw 4vw;
+border-radius: 100px;
+background: #662671;
+color: #fff;
+}
+#btn-cancel{
+    border: 1px solid;
+    padding: .5vw 4vw;
+    border-radius: 100px;
+    background:#fff;
+    color: #676767;
+    
+
+
+}
+
+#c-bg{
+    background-color:  #F2F2F2;
+    margin-bottom: 10px;
+    
+}
+.action-btn-c{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    
+   
+}
+
+.action-btn-c a{
+    font-size: 20px;
+    margin-top: 3px;
+    margin-left: 5px;
+}

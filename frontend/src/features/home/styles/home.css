@@ -1,0 +1,30 @@
+.home-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+
+    }
+    
+    .home img{
+
+        width: 200px;
+    
+    }
+    
+    #logout{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        padding: 2vw;
+    
+    }
+    
+    #logout button{
+        padding: .7vw 1.3vw;
+        border-radius: 5px;
+        border:  1px solid;
+        background-color: #FFFF;
+        color:  #B13129;
+        
+    }
